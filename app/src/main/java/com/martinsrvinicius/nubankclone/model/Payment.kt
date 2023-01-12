@@ -1,7 +1,8 @@
 package com.martinsrvinicius.nubankclone.model
 
-data class Payment {
+data class Payment (
 
-    val icone: Int? = null;
-    val title: String? = null;
-}
+    val icone: Int? = null,
+    val title: String? = null
+
+)

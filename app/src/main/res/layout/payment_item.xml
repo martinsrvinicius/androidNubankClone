@@ -22,19 +22,20 @@
         android:id="@+id/icPayment"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/ic_pix"
         app:layout_constraintBottom_toBottomOf="@id/containerCircle"
         app:layout_constraintEnd_toEndOf="@id/containerCircle"
         app:layout_constraintStart_toStartOf="@id/containerCircle"
         app:layout_constraintTop_toTopOf="@id/containerCircle" />
 
     <TextView
+        android:layout_marginTop="10dp"
         android:id="@+id/txtPaymentTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Área do Pix"
         android:textColor="@color/black"
         android:textSize="18sp"
+        android:gravity="center"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

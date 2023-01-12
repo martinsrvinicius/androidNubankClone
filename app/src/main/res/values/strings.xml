@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">Nubank Clone</string>
     <string name="txt_user_name">Olá, Vinicius</string>
-    <string name="txt_account_balance">Conta \n\n R$1259,98</string>
+    <string name="txt_account_balance">Conta \n\n R$12.599,98</string>
+    <string name="txt_cartoes">Meus Cartões</string>
+    <string name="txt_credit_card">Cartão de crédito</string>
+    <string name="txt_current_invoice">Fatura atual</string>
+    <string name="txt_money_invoice">R$1359,00</string>
+    <string name="txt_limit_available">Limite disponível de R$5881,01</string>
+    <string name="txt_pay_in_installments">Parcelar compras</string>
 </resources>
